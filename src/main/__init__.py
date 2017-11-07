@@ -50,7 +50,7 @@ from sample import getAbs
 
 print (getAbs(-1))
 
-print("到底行不行啊")
+print("finally")
 
 
 
